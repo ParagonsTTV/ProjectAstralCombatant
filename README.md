@@ -115,7 +115,8 @@ If someone does not want to use the addon because AI was involved in its develop
 For the full background on who built PAC, PvP credentials, and why this project exists, see:
 
 - [BACKGROUND.md](./BACKGROUND.md) – long‑form story and identity
-- Selected VODs and coaching examples (to be linked from the repo/wiki)
+- See [DOCS.md](./DOCS.md) for a sample export and future technical notes.
+- Selected VODs (TBD)
 
 ---
 
