@@ -31,8 +31,8 @@ The goal is to give you a clean “round card” you can pull up later and say:
 
 ## Origin (short version)
 
-PAC exists because being “the tank player” in PvP often means getting labeled as a meme, a troll, or the problem even when the logs and VODs say otherwise.[page:0]  
-After 15 years playing Protection and Retribution Paladin in rated PvP, the fastest way to cut through that noise turned out to be simple: build a receipts machine that makes post‑match review trivial instead of exhausting.[page:0]
+PAC exists because being “the tank player” in PvP often means getting labeled as a meme, a troll, or the problem even when the logs and VODs say otherwise.  
+After 15 years playing Protection and Retribution Paladin in rated PvP, the fastest way to cut through that noise turned out to be simple: build a receipts machine that makes post‑match review trivial instead of exhausting.
 
 For the long version of that story – the ladder history, the mislabels, and how this turned into a coaching tool – see `BACKGROUND.md`.
 
