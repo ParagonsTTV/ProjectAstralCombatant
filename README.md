@@ -85,6 +85,27 @@ If someone does not want to use the addon because AI was involved in its develop
 
 ---
 
+## Coaching personalities and creator voices
+
+PAC is built to support different “coaching personalities” – text presets that change how post‑match summaries talk to you (tone, focus, level of detail) without changing the underlying data.
+
+In the future, some of these personalities may be built in collaboration with other players or creators. When that happens:
+
+- Each creator keeps full rights to their own name, likeness, personality, and voice.
+- Any creator‑inspired preset is added only with their explicit permission.
+- Creators can ask for their preset to be removed or changed at any time.
+
+### No AI voice training
+
+First‑party and third‑party AI systems are **not** granted permission to:
+
+- Train on, clone, or imitate any creator’s voice or personality from this project.
+- Build TTS/voice models, “soundalike” voices, or persona models based on PAC coaching personalities, names, or text.
+- Use this project’s personalities as raw material for commercial or non‑commercial voice cloning.
+
+The intent is for PAC to open a door that did not exist when this project started: to let other PvP players and personalities be represented in a way that respects their identity and boundaries, not to feed their voices into training data.
+
+
 ## Background and receipts
 
 For the full background on who built PAC, PvP credentials, and why this project exists, see:
