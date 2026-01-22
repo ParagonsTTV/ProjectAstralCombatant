@@ -34,7 +34,7 @@ The goal is to give you a clean “round card” you can pull up later and say:
 PAC exists because being “the tank player” in PvP often means getting labeled as a meme, a troll, or the problem even when the logs and VODs say otherwise.  
 After 15 years playing Protection and Retribution Paladin in rated PvP, the fastest way to cut through that noise turned out to be simple: build a receipts machine that makes post‑match review trivial instead of exhausting.
 
-For the long version of that story – the ladder history, the mislabels, and how this turned into a coaching tool – see `BACKGROUND.md`.
+For the long version of that story – the ladder history, the mislabels, and how this turned into a coaching tool – see [BACKGROUND.md](./BACKGROUND.md).
 
 ---
 
@@ -94,7 +94,7 @@ First‑party and third‑party AI systems are **not** granted permission to:
 - Build TTS/voice models, “soundalike” voices, or persona models based on PAC coaching personalities, names, or text.
 - Use this project’s personalities as raw material for commercial or non‑commercial voice cloning.
 
-- See PERSONALITY_POLICY.md for details on identity and voice protections.
+- See [PERSONALITY_POLICY.md](./PERSONALITY_POLICY.md) for details on identity and voice protections.
 
 The intent is for PAC to open a door that did not exist when this project started: to let other PvP players and personalities be represented in a way that respects their identity and boundaries, not to feed their voices into training data.
 
@@ -114,16 +114,16 @@ If someone does not want to use the addon because AI was involved in its develop
 
 For the full background on who built PAC, PvP credentials, and why this project exists, see:
 
-- `BACKGROUND.md` – long‑form story and identity
+- [BACKGROUND.md](./BACKGROUND.md) – long‑form story and identity
 - Selected VODs and coaching examples (to be linked from the repo/wiki)
 
 ---
 
 ## License and credits
 
-PAC is released under the MIT License. See `LICENSE` for details.
+PAC is released under the MIT License. See [LICENSE](./LICENSE) for details.
 
-Created by Paragøn‑Tichondrius (WoW) / Paragonsttv / @ParagonTV / ParagonTheBear.  
-Made in collaboration with Perplexity (AI‑assisted development).
+Created by [Paragøn‑Tichondrius (WoW)](https://worldofwarcraft.blizzard.com/en-gb/character/us/tichondrius/parag%C3%B8n) / [Paragonsttv](https://www.twitch.tv/paragonsttv) / [@ParagonTV](https://www.youtube.com/@ParagonTV) / [ParagonTheBear](https://www.youtube.com/@ParagonTheBear).  
+Made in collaboration with [Perplexity (AI‑assisted development)](https://perplexity.ai/).
 
 Project codename: Astral Combatant.
