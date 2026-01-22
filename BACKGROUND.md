@@ -174,10 +174,10 @@ PAC is both a personal tool (built out of years of frustration with being misrea
 
 ## Contact and links
 
-- In‑game: Paragøn‑Tichondrius (World of Warcraft)
-- GitHub: Paragonsttv
-- Twitch / YouTube (WoW): Paragonsttv / @ParagonTV
-- Variety / long‑form: ParagonTheBear
+- In‑game: [Paragøn‑Tichondrius (World of Warcraft)](https://worldofwarcraft.blizzard.com/en-gb/character/us/tichondrius/parag%C3%B8n)
+- GitHub: [Paragonsttv](https://github.com/ParagonsTTV/)
+- Twitch / YouTube (WoW): [Paragonsttv](https://www.twitch.tv/paragonsttv) / [@ParagonTV](https://www.youtube.com/@ParagonTV)
+- Variety / long‑form: [ParagonTheBear](https://www.youtube.com/@ParagonTheBear)
 
 - ---
 
