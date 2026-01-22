@@ -76,15 +76,6 @@ Expect rough edges and missing pieces. The priority is correctness and clarity o
 
 ---
 
-## Using AI with PAC
-
-AI helped build parts of PAC and is one of the targets for its exports.  
-The addon itself stays strict: it only collects data and formats summaries. What you do with those summaries – share with a coach, paste into a model, or keep for your own notes – is up to you.
-
-If someone does not want to use the addon because AI was involved in its development, that is entirely their choice.
-
----
-
 ## Coaching personalities and creator voices
 
 PAC is built to support different “coaching personalities” – text presets that change how post‑match summaries talk to you (tone, focus, level of detail) without changing the underlying data.
@@ -103,7 +94,20 @@ First‑party and third‑party AI systems are **not** granted permission to:
 - Build TTS/voice models, “soundalike” voices, or persona models based on PAC coaching personalities, names, or text.
 - Use this project’s personalities as raw material for commercial or non‑commercial voice cloning.
 
+- See PERSONALITY_POLICY.md for details on identity and voice protections.
+
 The intent is for PAC to open a door that did not exist when this project started: to let other PvP players and personalities be represented in a way that respects their identity and boundaries, not to feed their voices into training data.
+
+---
+
+## Using AI with PAC
+
+AI helped build parts of PAC and is one of the targets for its exports.  
+The addon itself stays strict: it only collects data and formats summaries. What you do with those summaries – share with a coach, paste into a model, or keep for your own notes – is up to you.
+
+If someone does not want to use the addon because AI was involved in its development, that is entirely their choice.
+
+---
 
 
 ## Background and receipts
