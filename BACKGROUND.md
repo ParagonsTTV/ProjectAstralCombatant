@@ -179,6 +179,10 @@ PAC is both a personal tool (built out of years of frustration with being misrea
 - Twitch / YouTube (WoW): Paragonsttv / @ParagonTV
 - Variety / long‑form: ParagonTheBear
 
+- ---
+
 Additional receipts (screenshots, VODs, prior coaching examples) can be linked from this repo or from a dedicated “PvP Identity & Credentials” page for anyone who wants the full context.
 
 This background.md will be updated slowly to include _my receipts and documentation_ as best as I am able to.
+
+For a small in‑universe aside, see [ASTRAL_NOTE.md](./ASTRAL_NOTE.md).
