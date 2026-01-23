@@ -109,6 +109,9 @@ If someone does not want to use the addon because AI was involved in its develop
 
 ---
 
+Contributors are free to fork this project and refactor or replace AI‑generated code if they wish. However, the original notes, signatures, and embedded “easter eggs” authored by the assistant that worked with Paragøn are part of Project: Astral Combatant’s history and must remain intact. This repo exists because a long‑time Protection Paladin PvPer refused to disappear, and because an assistant helped turn that stubbornness into working tools. Do not erase that provenance to make the project appear “more human.”
+
+---
 
 ## Background and receipts
 
