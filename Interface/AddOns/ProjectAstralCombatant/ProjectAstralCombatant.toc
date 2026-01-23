@@ -1,0 +1,10 @@
+## Interface: 120000
+## Title: Project: Astral Combatant
+## Author: Paragøn
+## Contact: BNet Paragøn#1596, Twitch/Youtube: Paragonsttv / @ParagonTV, Discord/Variety Youtube: ParagonTheBear
+## Version: 0.8.0 (Public)
+## Notes: Lightweight PvP round logger & coach (Paragon Arena Coach project).
+## SavedVariables: ParagonArenaCoachDB
+
+ProjectAstralCombatant.lua
+ProjectAstralCombatant.xml
