@@ -1,0 +1,91 @@
+Changelog
+
+v0.8.0 (Creator/Public) – Creator tags & flavor
+
+Added creator identity tagging so rounds from Paragøn-Tichondrius can be flagged internally for special handling.
+
+Introduced creator-only “PAC_CREATOR” tag wiring for summaries in the Creator Edition, gated to the creator’s Name-Realm.
+
+Implemented lore-flavored creator easter egg lines in post-match summaries, including subtle AI-helper jokes, only shown on tagged creator rounds.
+
+Ensured public builds can display creator-tagged easter eggs from logged data without exposing any way for users to mark their own rounds as creator rounds.
+
+v0.7.0–0.7.9 (Internal, Midnight Prepatch) – Refactors & polish
+
+Refactored round summary composition to prepare for creator tagging and post-match flavor text.
+
+Tightened Breakdown and Coach Chat wiring so summaries, exports, and notes share a single source of truth for round data.
+
+Adjusted PvP performance templates and internal wording for more readable summaries without changing underlying stat calculations.
+
+v0.6.1 (Alpha‑Private) – Prot/Ret PvP coach
+
+Added Prot/Ret PvP coach focus with basic round + defensive CD tracking.
+
+Began mitigation reporting (block/absorb/avoidance) – implementation and UI still WIP.
+
+v0.6.0 – Private
+
+Enabled K/M abbreviations and internal tuning knobs (font size slider, crit color tweak) for testing.
+
+v0.5.0 – Private
+
+Added Coach Chat Copy flow: “Copy chat” button with EditBox popup so full round context + Breakdown can be copied into external AI prompts.
+
+Integrated generic Astral coach profiles (Combatant → Gladiator/Legend fundamentals) and documented the PAC prompt/model contract for AI use.
+
+Finalized MIT licensing (LICENSE file, .toc, and README metadata).
+
+Polished Coach Chat layout so coach selector, prompt viewer, and chat text share a consistent panel skin and button row.
+
+v0.4.0 (Internal) – Coach Chat & Breakdown export
+
+Implemented PAC Coach Chat frame for WIM‑style review text.
+
+Wired “Send to Coach” from Breakdown and mini meter so the selected round’s summary is pushed into Coach Chat.
+
+Added round export format (context line + DPS/HPS + top spells + optional talent note) suitable for direct copy‑paste into AI.
+
+Refined Breakdown view: clearer top‑spells list, percentages, and “Other” bucket.
+
+v0.3.0 (Internal) – Mini meter & round control
+
+Added mini meter frame showing live vs last‑round Damage/DPS, Healing/HPS, Damage Taken, Healing Taken, mode, and duration.
+
+Added meter buttons:
+
+“<” opens Breakdown for the current/selected round.
+
+“>” sends the current/selected round to Coach Chat.
+
+Implemented simple auto‑end logic for dummy and world‑PvP rounds after leaving combat, with safeguards against ending arena/BG rounds incorrectly.
+
+v0.2.0 (Alpha, Internal) – History, list, and UI polish
+
+Introduced History frame: scrollable list of past rounds with timestamps, mode, map, result, and DPS/HPS.
+
+Added Rounds List frame: compact clickable list to choose which round feeds Breakdown/Coach export.
+
+Implemented frame locking & saved positions:
+
+/pac lock and /pac unlock toggle drag state and save positions per frame (meter, Breakdown, History, List, Coach Chat).
+
+Applied a lightweight Blizzard‑style panel skin to all PAC windows for visual consistency.
+
+v0.1.0 (Alpha, Internal) – Core
+
+Initial round‑tracking core:
+
+Mode detection (arena, BG, dungeon, raid, scenario, duel, dummy, world PvP).
+
+Basic round lifecycle: start, end, duration, result flag.
+
+Logged core stats per round:
+
+Damage/healing done & taken, DPS/HPS, interrupts, top spells by name.
+
+Basic cooldown tracking for key defensives/offensives.
+
+Added /pac slash commands:
+
+debug, current, toggle, reset, history, breakdown, lock, unlock, note, notes, coach, list, clear
